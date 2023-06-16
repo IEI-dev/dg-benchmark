@@ -1,0 +1,26 @@
+| Name  | Precision  |  FPS |
+|-------|------------|------|
+| bert-large-uncased-whole-word-masking-squad-0001   |  FP16  | 12.91 |
+| bert-large-uncased-whole-word-masking-squad-0001   |  FP32  | 7.96 |
+| unet-camvid-onnx-0001   |  FP16  | 34.54 |
+| unet-camvid-onnx-0001   |  FP16-INT8  | 58.3 |
+| unet-camvid-onnx-0001   |  FP32  | 11.21 |
+| bert-small-uncased-whole-word-masking-squad-0001   |  FP16  | 93.3 |
+| bert-small-uncased-whole-word-masking-squad-0001   |  FP32  | 70.48 |
+| faster_rcnn_resnet50_coco   |  FP16  | 42.59 |
+| faster_rcnn_resnet50_coco   |  FP32  | 6.48 |
+| yolo-v3-tiny-tf   |  FP16  | 987.98 |
+| yolo-v3-tiny-tf   |  FP32  | 354.07 |
+| ssd-resnet34-1200-onnx   |  FP16  | 28.36 |
+| ssd-resnet34-1200-onnx   |  FP32  | 6.48 |
+| mobilenet-v2   |  FP16  | 2862.05 |
+| mobilenet-v2   |  FP32  | 1336.8 |
+| googlenet-v4-tf   |  FP16  | 505.33 |
+| googlenet-v4-tf   |  FP32  | 95.52 |
+| mobilenet-ssd   |  FP16  | 946.59 |
+| mobilenet-ssd   |  FP32  | 403.7 |
+| inception-resnet-v2-tf   |  FP16  | 433.03 |
+| yolo-v4-tf   |  FP16  | 52.55 |
+| yolo-v4-tf   |  FP32  | 16.72 |
+| deeplabv3   |  FP16  | 214.78 |
+| deeplabv3   |  FP32  | 59.71 |
