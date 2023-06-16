@@ -1,0 +1,15 @@
+#bert-base-cased
+bert-small-uncased-whole-word-masking-squad-0001
+bert-large-uncased-whole-word-masking-squad-0001
+deeplabv3
+efficientdet-d0-tf
+faster_rcnn_resnet50_coco
+googlenet-v4-tf
+mobilenet-ssd
+mobilenet-v2
+resnet-18-pytorch
+resnet-50-pytorch
+ssd-resnet34-1200-onnx
+unet-camvid-onnx-0001
+yolo-v3-tiny-tf
+yolo-v4-tf
