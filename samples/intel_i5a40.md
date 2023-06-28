@@ -1,0 +1,25 @@
+| Name  | Precision  |  FPS |
+|-------|------------|------|
+| unet-camvid-onnx-0001   |  FP16-INT8  | 45.44 |
+| unet-camvid-onnx-0001   |  FP32  | 6.87 |
+| unet-camvid-onnx-0001   |  FP16  | 23.72 |
+| bert-large-uncased-whole-word-masking-squad-0001   |  FP32  | 5.26 |
+| bert-large-uncased-whole-word-masking-squad-0001   |  FP16  | 9.78 |
+| bert-small-uncased-whole-word-masking-squad-0001   |  FP32  | 48.76 |
+| bert-small-uncased-whole-word-masking-squad-0001   |  FP16  | 79.42 |
+| faster_rcnn_resnet50_coco   |  FP32  | 3.76 |
+| faster_rcnn_resnet50_coco   |  FP16  | 24.73 |
+| yolo-v4-tf   |  FP32  | 9.86 |
+| yolo-v4-tf   |  FP16  | 36.9 |
+| mobilenet-ssd   |  FP32  | 312.19 |
+| mobilenet-ssd   |  FP16  | 924.34 |
+| googlenet-v4-tf   |  FP32  | 55.09 |
+| googlenet-v4-tf   |  FP16  | 173.43 |
+| mobilenet-v2   |  FP32  | 802.81 |
+| mobilenet-v2   |  FP16  | 1890.6 |
+| deeplabv3   |  FP32  | 36.66 |
+| deeplabv3   |  FP16  | 128.65 |
+| yolo-v3-tiny-tf   |  FP32  | 204.86 |
+| yolo-v3-tiny-tf   |  FP16  | 1006.39 |
+| ssd-resnet34-1200-onnx   |  FP32  | 3.39 |
+| ssd-resnet34-1200-onnx   |  FP16  | 15.64 |
