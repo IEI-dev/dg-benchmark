@@ -15,3 +15,10 @@ omz_converter --list models.lst
 ```
 ./bmall.sh
 ```
+
+## Create Report
+```
+./bmall.sh > i5a40.log
+python3 collectlog.py bms.lst i5a40.log > i5a40.md
+```
+
